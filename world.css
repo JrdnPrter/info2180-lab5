@@ -1,10 +1,13 @@
 /* Add your own styles */
 h1{
-    border-bottom-style: solid;
-    border-bottom-color: red;
+    border-bottom-style: groove;
+    border-bottom-color: rgb(19, 255, 78);
+    border-bottom-width: 15px;
     text-align: center;
     border-bottom-left-radius: 350px;
     border-bottom-right-radius: 350px;
+    background-image: url("internationalisation.jpg");
+    background-color: #cccccc;
 }
 #country{
 
@@ -15,18 +18,20 @@ h1{
 }
 
 button{
-     color:white;
+     color:rgb(185, 185, 185);
     font-size: 14px;
     border-radius: 5px;
 }
 #lookup{
-    background-color: brown;
+    background-color: rgb(12, 15, 145);
+    
    
     
 }
 
 #citylookup{
     background-color: limegreen;
+
 }
   
 table{
